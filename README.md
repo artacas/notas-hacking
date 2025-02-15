@@ -17,3 +17,13 @@ General Skills
 - 08 - plumbing
 - 09 - Glitch Cat
 - 10 - Nice netcat...
+- 11 - Based
+- 12 - strings it
+- 13 - Wave a flag
+- 14 - Static ain´t always noise
+- 15 - useless
+- 16 - Tab, Tab, Attack
+- 17 - Magikarp Ground Mission
+- 18 - repetitions
+- 19 - Big zip
+- 20 - First Find

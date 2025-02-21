@@ -27,3 +27,13 @@ General Skills
 - 18 - repetitions
 - 19 - Big zip
 - 20 - First Find
+- 21 - Super SSH
+- 22 - runme.py
+- 23 - Codebook
+- 24 - convertme.py
+- 25 - fixme1.py
+- 26 - fixme2.py
+- 27 - PW Crack 1
+- 28 - PW Crack 2
+- 29 - PW Crack 3
+- 30 - Serpentine

@@ -37,3 +37,13 @@ General Skills
 - 28 - PW Crack 2
 - 29 - PW Crack 3
 - 30 - Serpentine
+- 31 - permissions
+- 32 - chrono
+- 33 - special
+- 34 - committe issue
+- 35 - time machine
+- 36 - blame game
+- 37 - collaborative development
+- 38 - binary search
+- 39 - binhexa
+- 40 - ASCII Numbers

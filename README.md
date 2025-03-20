@@ -47,3 +47,11 @@ General Skills
 - 38 - binary search
 - 39 - binhexa
 - 40 - ASCII Numbers
+
+Web:
+- 1 - Insp3ct0r
+- 2 - where are the robots
+- 3 - logon
+- 4 - dont-use-client-side
+- 5 - picobrowser
+- 6 - Client-side-again

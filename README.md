@@ -55,3 +55,6 @@ Web:
 - 4 - dont-use-client-side
 - 5 - picobrowser
 - 6 - Client-side-again
+- 7 - GET aHEAD
+- 8 - Cookies
+- 9 - Scavenger Hunt

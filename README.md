@@ -58,3 +58,6 @@ Web:
 - 7 - GET aHEAD
 - 8 - Cookies
 - 9 - Scavenger Hunt
+- 10 - Irish-Name-Repo 1
+- 11 - More SQLi
+- 12 - JaWT Scratchpad

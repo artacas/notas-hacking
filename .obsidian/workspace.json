@@ -186,8 +186,11 @@
   "active": "58067c8f097f030c",
   "lastOpenFiles": [
     "README.md",
-    "picoCTF/Web/Scavenger Hunt.md",
+    "picoCTF/Web/JaWT Scratchpad.md",
+    "picoCTF/Web/More SQLi.md",
+    "picoCTF/Web/Irish-Name-Repo 1.md",
     "Plantilla.md",
+    "picoCTF/Web/Scavenger Hunt.md",
     "picoCTF/Web/Cookies.md",
     "picoCTF/Web/GET aHEAD.md",
     "picoCTF/Web/Insp3ct0r.md",
@@ -209,9 +212,6 @@
     "picoCTF/General Skills/33 - special.md",
     "picoCTF/General Skills/32 - chrono.md",
     "picoCTF/General Skills/31 - permissions.md",
-    "picoCTF/General Skills/30 - Serpentine.md",
-    "picoCTF/General Skills/27 - PW Crack 1.md",
-    "picoCTF/General Skills/25 - fixme1.py.md",
     "picoCTF/General Skills",
     "picoCTF"
   ]

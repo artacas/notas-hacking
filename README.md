@@ -61,3 +61,14 @@ Web:
 - 10 - Irish-Name-Repo 1
 - 11 - More SQLi
 - 12 - JaWT Scratchpad
+- 13 - MatchTheRegex
+- 14 - SOAP
+- 15 - Trickster
+- 16 - Most Cookies
+
+Forensic
+- 1 - Glory of the Garden
+- 2 - So Meta
+- 3 - shark on wire 1
+- 4 - extensions
+- 5 - What Lies Within

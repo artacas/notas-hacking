@@ -19,6 +19,6 @@ PNG
     }
 ?>
 ```
-que al inicio contiene PHP al principio para que tenga la firma que es un archivo png y se pueda subir y ejecutar
+que al inicio contiene PNG al principio para que tenga la firma que es un archivo png y se pueda subir y ejecutar
 
 Seguí su tutorial en YT para que tenga más visitas

@@ -65,6 +65,16 @@ Web:
 - 14 - SOAP
 - 15 - Trickster
 - 16 - Most Cookies
+- 17- Includes
+- 18 - Inspect HTML
+- 19 - IntroToBurp
+- 20 - Local Authority
+- 21 - Power Cookie
+- 22 - Roboto Sans
+- 23 - Secrets
+- 24 - SQLiLite
+- 25 - Unminify
+- 26 - WebDecode
 
 Forensic
 - 1 - Glory of the Garden

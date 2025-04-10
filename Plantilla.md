@@ -9,6 +9,9 @@ Hints:
 
 ```
 
+## Notas:
+
+
 
 Para subir a Git:
 git add .

@@ -76,6 +76,34 @@ Web:
 - 25 - Unminify
 - 26 - WebDecode
 
+-------------------------------------------------------------------------------
+### Primer Parcial:
+#### General Skills:
+- FANTASY CTF
+- HashingJobApp
+- Python Weangling
+- Rust fixme 1
+- Rust fixme 2
+- Rust fixme 3
+- dont-you-love-banners
+- flag_shop
+- SansAlpha
+- Specialer
+
+#### Web:
+- Bookmarklet
+- Cookie Monster Secret Recipe
+- head-dump
+- n0s4n1ty 1
+- SSTI1
+- findme
+- Java Code Analysis!?!
+- SQL Direct
+- SSTI2
+- WebSockFish
+
+-----------------------------------------------------------------
+
 Forensic
 - 1 - Glory of the Garden
 - 2 - So Meta

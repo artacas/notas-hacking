@@ -115,3 +115,8 @@ Forensic
 - 8 - c0rrupt
 - 9 - like1000
 - 10 - shark on wire 2
+- 11 - WebNet0
+- 12 - WebNet1
+- 13 - Matryoshka doll
+- 14 - tunn3l_v1s10n
+- 15 - MacroHard WeakEdge

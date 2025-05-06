@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Plantilla"
             }
           }
         ],
@@ -185,6 +185,13 @@
   },
   "active": "58067c8f097f030c",
   "lastOpenFiles": [
+    "README.md",
+    "picoCTF/Forensic/MacroHard WeakEdge.md",
+    "picoCTF/Forensic/tunn3l_v1s10n.md",
+    "picoCTF/Forensic/Matryoshka doll.md",
+    "picoCTF/Forensic/WebNet1.md",
+    "picoCTF/Forensic/WebNet0.md",
+    "Plantilla.md",
     "picoCTF/Primer Parcial/Web/WebSockFish.md",
     "picoCTF/Primer Parcial/Web/SSTI2.md",
     "picoCTF/Primer Parcial/Web/SSTI1.md",
@@ -205,16 +212,9 @@
     "picoCTF/Primer Parcial/General Skills/Rust fixtime 3.md",
     "picoCTF/Primer Parcial/General Skills/Rust fixtime 2.md",
     "picoCTF/Primer Parcial/General Skills/Rust fixtime 1.md",
-    "picoCTF/Primer Parcial/General Skills/Python Wrangling.md",
-    "picoCTF/Primer Parcial/General Skills/HashingJobApp.md",
-    "picoCTF/Primer Parcial/General Skills/FANTASY CTF.md",
-    "Plantilla.md",
-    "README.md",
     "picoCTF/Primer Parcial/Web",
     "picoCTF/Primer Parcial/General Skills",
     "picoCTF/Primer Parcial",
-    "picoCTF/Untitled.md",
-    "picoCTF/Forensic/c0rrupt.md",
     "picoCTF/Forensic",
     "picoCTF/Web",
     "picoCTF/General Skills",

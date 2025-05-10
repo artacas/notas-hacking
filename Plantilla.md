@@ -3,7 +3,6 @@
 
 Hints:
 
-
 ## Solución:
 ```
 

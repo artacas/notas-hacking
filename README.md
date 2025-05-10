@@ -120,3 +120,9 @@ Forensic
 - 13 - Matryoshka doll
 - 14 - tunn3l_v1s10n
 - 15 - MacroHard WeakEdge
+- 16 - Milkslap
+- 17 - Disk, disk, sleuth!
+- 18 - Sleuthkit Intro
+- 19 - Sleuthkit Apprentice
+- 20 - Operation Orchid
+- 21 - Operation Oni

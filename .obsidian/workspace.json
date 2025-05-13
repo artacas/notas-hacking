@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/flags are stepic.md",
+                "file": "picoCTF/Crypto/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags are stepic"
+              "title": "interencdec"
             }
           }
         ],
@@ -185,8 +185,18 @@
   },
   "active": "58067c8f097f030c",
   "lastOpenFiles": [
+    "picoCTF/Crypto/waves over lambda.md",
+    "picoCTF/Crypto/Tapping.md",
+    "picoCTF/Crypto/la cifra de.md",
+    "picoCTF/Crypto/Easy 1.md",
+    "picoCTF/Crypto/interencdec.md",
+    "picoCTF/Crypto/caesar.md",
+    "picoCTF/Crypto/13.md",
+    "picoCTF/Crypto/The numbers.md",
     "Plantilla.md",
+    "README.md",
     "picoCTF/Forensic/flags are stepic.md",
+    "picoCTF/Crypto",
     "picoCTF/Forensic/extensions.md",
     "picoCTF/Forensic/Disk, disk, sleuth!.md",
     "picoCTF/Forensic/CanYouSee.md",
@@ -201,17 +211,8 @@
     "picoCTF/Forensic/Scan Surprise.md",
     "picoCTF/Forensic/Redaction gone wrong.md",
     "picoCTF/Forensic/St3g0.md",
-    "README.md",
     "hqdefault.avif",
     "picoCTF/Forensic/Milkslap.md",
-    "picoCTF/Forensic/Operation Oni.md",
-    "picoCTF/Forensic/Operation Orchid.md",
-    "picoCTF/Forensic/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic/Sleuthkit Intro.md",
-    "picoCTF/Forensic/WhitePages.md",
-    "picoCTF/Forensic/What Lies Within.md",
-    "picoCTF/Forensic/WebNet0.md",
-    "picoCTF/Forensic/tunn3l_v1s10n.md",
     "picoCTF/Primer Parcial/Web",
     "picoCTF/Primer Parcial/General Skills",
     "picoCTF/Primer Parcial",

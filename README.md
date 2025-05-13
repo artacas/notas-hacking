@@ -136,3 +136,17 @@ Forensic
 - 29 - RED
 - 30 - Ph4nt0m 1ntrud3r
 - 31 - flags are stepic
+
+
+-------------------------------------------------------------------------------
+
+Crypto:
+- 1 - The numbers
+- 2 - 13
+- 3 - Cesar
+- 4 - Easy 1
+- 5 - la cifra de
+- 6 - Tapping
+- 7 - waves over lambda 
+- 8 - interencdec
+-------------------------------------------------------------------------------

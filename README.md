@@ -126,3 +126,13 @@ Forensic
 - 19 - Sleuthkit Apprentice
 - 20 - Operation Orchid
 - 21 - Operation Oni
+- 22 - information
+- 23 - St3g0
+- 24 - Redaction gone wrong
+- 25 - hideme
+- 26 - Scan Surprise
+- 27 - CanYouSee
+- 28 - Secret of the Polyglot
+- 29 - RED
+- 30 - Ph4nt0m 1ntrud3r
+- 31 - flags are stepic

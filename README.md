@@ -149,4 +149,5 @@ Crypto:
 - 6 - Tapping
 - 7 - waves over lambda 
 - 8 - interencdec
+- 9 - rsa-pop-quiz
 -------------------------------------------------------------------------------
